@@ -234,12 +234,3 @@ Example:
   docker rm <container-id>
   ```
 
----
-
-
----
-
-
----
-
-Happy Learning 🚀
